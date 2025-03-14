@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Pulkeet Sawant! 
+### 🔍 AI-Powered Data Analyst | Data Science Enthusiast | Aspiring BI Developer
 
-<!--
-**Pulkeet-dotcom/pulkeet-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about leveraging AI & Data Analytics to solve real-world business problems. Currently, I am in my **third year of Computer Science Engineering** and actively learning **Python, SQL, Power BI, and AI automation tools**.
 
-Here are some ideas to get you started:
+## 🚀 **My Tech Stack:**
+🔹 **Programming:** Python, SQL  
+🔹 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+🔹 **Business Intelligence:** Power BI, Tableau  
+🔹 **AI Tools:** PandasAI, OpenAI API, AI Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 **What to Expect on My GitHub:**
+🔹 Data Analytics & Visualization Projects  
+🔹 AI-powered Insights using OpenAI & PandasAI  
+🔹 Business Intelligence Dashboards  
+
+📫 **Let's Connect!**  
+💼 [LinkedIn](https://www.linkedin.com/in/pulkeet-sawant-81b434323/)  
+📧 [Email](mailto:your-sawant01pulkeet05@gmail.com)
